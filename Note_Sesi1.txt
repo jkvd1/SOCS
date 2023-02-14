@@ -1,0 +1,35 @@
+Comment
+-------
+// comment untuk single line
+/* comment semua yang ada di dalem syntax slash bintang ini */
+================================================================
+Escape Sequence
+---------------
+\" -> print tanda petik dua
+\\ -> print backslash
+\t -> horizontal tab
+\n -> new line (enter)
+\r carriage return
+
+masih ada yg lainnya bisa dicari sendiri, tapi yg umumnya dipake
+yang lima diatas
+================================================================
+Type data
+---------
+char	-> character
+bool	-> true or false 
+int	-> integer
+float	-> angka decimal
+double -> angka decimal tapi lebih spesifik komanya
+long int int -> angka bulat tapi rangenya lebih besar dari int biasa
+
+masih banyak yg lainnya nanti bisa dicari sendiri
+================================================================
+Format Specifier
+----------------
+%c   -> char 
+%s   -> string
+%d   -> int
+%lld -> long long int
+%f   -> float
+%lf  -> double 

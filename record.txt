@@ -1,0 +1,9 @@
+DATA NILAI SISWA
+1.
+Nama	: jojo
+NIM	: 26702244
+GPA	: 3.3
+2.
+Nama	: bibi
+NIM	: 3423423
+GPA	: 4.0
