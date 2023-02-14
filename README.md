@@ -1,2 +1,2 @@
 ﻿# SOCS
-Sawer gue di lynk.id/jkvd 
+Sawer gue di https://lynk.id/jkvd
