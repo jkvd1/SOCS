@@ -1,2 +1,2 @@
 ﻿# SOCS
-Sawer gue di https://lynk.id/jkvd
+donation : https://lynk.id/jkvd
