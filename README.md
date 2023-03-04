@@ -1,2 +1,2 @@
 ﻿# SOCS
-donation : https://lynk.id/jkvd
+https://lynk.id/jkvd
